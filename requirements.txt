@@ -1,0 +1,24 @@
+## Requirements
+
+- Python 3.6+
+- All dependencies are listed in `requirements.txt`.
+
+## Installation
+
+1. **Clone this repository**:
+    ```bash
+    git clone https://github.com/yourusername/stock_forecaster.git
+    cd stock_forecaster
+    ```
+
+2. **Install the required packages**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+To run the stock forecaster, simply execute:
+
+```bash
+python stock_forecaster_ml.py

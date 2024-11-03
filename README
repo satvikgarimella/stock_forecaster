@@ -1,0 +1,5 @@
+# Stock Price Forecaster
+
+This project is a stock price forecasting tool that uses an LSTM (Long Short-Term Memory) neural network to predict future stock prices. The model is trained on historical stock data fetched from Yahoo Finance using the `yfinance` library.
+
+## Project Structure
